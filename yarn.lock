@@ -52,6 +52,11 @@ anymatch@^2.0.0:
     micromatch "^3.1.4"
     normalize-path "^2.1.1"
 
+api-query-params@^4.10.0:
+  version "4.10.0"
+  resolved "https://registry.yarnpkg.com/api-query-params/-/api-query-params-4.10.0.tgz#229a96231b31589009843c676ea3ed961c419d1e"
+  integrity sha512-9XEd2BYSDpRjMowHRGooawQZEGQDWcrPNOdCrY0+n+WbSLDT3h3bAzXoLKHEV0EtwQkzGtCcJn1kgwNuNz48IQ==
+
 append-field@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/append-field/-/append-field-1.0.0.tgz#1e3440e915f0b1203d23748e78edd7b9b5b43e56"

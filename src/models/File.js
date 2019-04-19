@@ -10,7 +10,8 @@ const File = new mongoose.Schema({
     required: true,
   },
   files: []
-}, {
+},
+  {
     timestamps: true,
     toObject: { virtuals: true },
     toJSON: { virtuals: true }
